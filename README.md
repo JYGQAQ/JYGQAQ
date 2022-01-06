@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @JYGQAQ
-- 👀 I’m interested in Java、Algorithm、DesignPatterns、MySQL、Linux......
-- 🌱 I’m currently learning JavaConcurrent
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 604713431@qq.com
+🎓本科  西安交通大学（2017-2021）
+🎓硕士  西安交通大学（2021-2024）本校保研
+💻专业  计算机科学与技术
+👀爱好  热爱技术，目前技术栈是Java，对高并发感兴趣，欢迎大家和我一起交流。
+📫邮箱  604713431@qq.com
+📫备用  604713431jyg@gmail.com
 
-<!---
-JYGQAQ/JYGQAQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🥼个人博客 [个人博客](www.baidu.com)
+🧥LeetCode个人主页 [LeetCode个人主页](https://leetcode-cn.com/u/jyg_/)
