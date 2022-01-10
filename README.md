@@ -5,5 +5,5 @@
 * 🎈兴趣&nbsp;&nbsp;&nbsp;&nbsp;热爱技术，对数据结构与算法十分感兴趣，目前技术栈是Java，对高并发感兴趣，欢迎大家和我一起交流。
 * 📫邮箱&nbsp;&nbsp;&nbsp;&nbsp;604713431@qq.com
 * 📫备用&nbsp;&nbsp;&nbsp;&nbsp;604713431jyg@gmail.com
-* 🥼博客&nbsp;&nbsp;&nbsp;&nbsp;[个人博客](www.baidu.com)
+* 🥼博客&nbsp;&nbsp;&nbsp;&nbsp;[个人博客]()
 * 🧥力扣&nbsp;&nbsp;&nbsp;&nbsp;[LeetCode个人主页](https://leetcode-cn.com/u/jyg_/)
