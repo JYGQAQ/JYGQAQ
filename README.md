@@ -6,4 +6,5 @@
 * 📫邮箱&nbsp;&nbsp;&nbsp;&nbsp;604713431@qq.com
 * 📫备用&nbsp;&nbsp;&nbsp;&nbsp;604713431jyg@gmail.com
 * 🥼博客&nbsp;&nbsp;&nbsp;&nbsp;[个人博客](https://jygqaq.github.io/)
-* 🧥力扣&nbsp;&nbsp;&nbsp;&nbsp;[LeetCode个人主页](https://leetcode-cn.com/u/jyg_/)
+* 🧥LeetCode&nbsp;&nbsp;&nbsp;&nbsp;[LeetCode个人主页](https://leetcode-cn.com/u/jyg_/)
+* 🧥Codeforces&nbsp;&nbsp;&nbsp;&nbsp;[Codeforces个人主页](https://codeforces.com/profile/JYGQAQ)
